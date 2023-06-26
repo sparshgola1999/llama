@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/llama/static/css/main.5d759745.css",
+    "main.css": "/llama/static/css/main.7f273476.css",
     "main.js": "/llama/static/js/main.73612631.js",
     "static/js/787.6661d22c.chunk.js": "/llama/static/js/787.6661d22c.chunk.js",
     "static/media/llama.png": "/llama/static/media/llama.92d26723597c3d3462b3.png",
-    "static/media/stars.jpg": "/llama/static/media/stars.ed848411526e489c4479.jpg",
+    "static/media/llama-background.jpg": "/llama/static/media/llama-background.ff9a32835d404ba3e11a.jpg",
     "index.html": "/llama/index.html",
-    "main.5d759745.css.map": "/llama/static/css/main.5d759745.css.map",
+    "main.7f273476.css.map": "/llama/static/css/main.7f273476.css.map",
     "main.73612631.js.map": "/llama/static/js/main.73612631.js.map",
     "787.6661d22c.chunk.js.map": "/llama/static/js/787.6661d22c.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.5d759745.css",
+    "static/css/main.7f273476.css",
     "static/js/main.73612631.js"
   ]
 }
