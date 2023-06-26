@@ -1,16 +1,17 @@
 {
   "files": {
-    "main.css": "/llama/static/css/main.ea4361cf.css",
-    "main.js": "/llama/static/js/main.b5bd6aa9.js",
+    "main.css": "/llama/static/css/main.fe9b3149.css",
+    "main.js": "/llama/static/js/main.73612631.js",
     "static/js/787.6661d22c.chunk.js": "/llama/static/js/787.6661d22c.chunk.js",
+    "static/media/llama.png": "/llama/static/media/llama.92d26723597c3d3462b3.png",
     "static/media/stars.jpg": "/llama/static/media/stars.ed848411526e489c4479.jpg",
     "index.html": "/llama/index.html",
-    "main.ea4361cf.css.map": "/llama/static/css/main.ea4361cf.css.map",
-    "main.b5bd6aa9.js.map": "/llama/static/js/main.b5bd6aa9.js.map",
+    "main.fe9b3149.css.map": "/llama/static/css/main.fe9b3149.css.map",
+    "main.73612631.js.map": "/llama/static/js/main.73612631.js.map",
     "787.6661d22c.chunk.js.map": "/llama/static/js/787.6661d22c.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.ea4361cf.css",
-    "static/js/main.b5bd6aa9.js"
+    "static/css/main.fe9b3149.css",
+    "static/js/main.73612631.js"
   ]
 }
