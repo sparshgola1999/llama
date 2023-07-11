@@ -1,17 +1,20 @@
 {
   "files": {
-    "main.css": "/llama/static/css/main.7f273476.css",
-    "main.js": "/llama/static/js/main.73612631.js",
+    "main.css": "/llama/static/css/main.804e9371.css",
+    "main.js": "/llama/static/js/main.648be8aa.js",
     "static/js/787.6661d22c.chunk.js": "/llama/static/js/787.6661d22c.chunk.js",
     "static/media/llama.png": "/llama/static/media/llama.92d26723597c3d3462b3.png",
-    "static/media/llama-background.jpg": "/llama/static/media/llama-background.ff9a32835d404ba3e11a.jpg",
+    "static/media/sunglasses_llama.jpg": "/llama/static/media/sunglasses_llama.fd3deb64a68e850c83b6.jpg",
+    "static/media/star.svg": "/llama/static/media/star.daa0330fa0faf9acb38d467583505d44.svg",
     "index.html": "/llama/index.html",
-    "main.7f273476.css.map": "/llama/static/css/main.7f273476.css.map",
-    "main.73612631.js.map": "/llama/static/js/main.73612631.js.map",
+    "static/media/alien-planet.svg": "/llama/static/media/alien-planet.a0e1cd7050d49506062d07861d8545bb.svg",
+    "static/media/leaf.svg": "/llama/static/media/leaf.0a3a788cc983c9afe2ce25ee252fd974.svg",
+    "main.804e9371.css.map": "/llama/static/css/main.804e9371.css.map",
+    "main.648be8aa.js.map": "/llama/static/js/main.648be8aa.js.map",
     "787.6661d22c.chunk.js.map": "/llama/static/js/787.6661d22c.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.7f273476.css",
-    "static/js/main.73612631.js"
+    "static/css/main.804e9371.css",
+    "static/js/main.648be8aa.js"
   ]
 }
