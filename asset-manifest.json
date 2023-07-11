@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/llama/static/css/main.804e9371.css",
+    "main.css": "/llama/static/css/main.22f05e14.css",
     "main.js": "/llama/static/js/main.648be8aa.js",
     "static/js/787.6661d22c.chunk.js": "/llama/static/js/787.6661d22c.chunk.js",
     "static/media/llama.png": "/llama/static/media/llama.92d26723597c3d3462b3.png",
@@ -9,12 +9,12 @@
     "index.html": "/llama/index.html",
     "static/media/alien-planet.svg": "/llama/static/media/alien-planet.a0e1cd7050d49506062d07861d8545bb.svg",
     "static/media/leaf.svg": "/llama/static/media/leaf.0a3a788cc983c9afe2ce25ee252fd974.svg",
-    "main.804e9371.css.map": "/llama/static/css/main.804e9371.css.map",
+    "main.22f05e14.css.map": "/llama/static/css/main.22f05e14.css.map",
     "main.648be8aa.js.map": "/llama/static/js/main.648be8aa.js.map",
     "787.6661d22c.chunk.js.map": "/llama/static/js/787.6661d22c.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.804e9371.css",
+    "static/css/main.22f05e14.css",
     "static/js/main.648be8aa.js"
   ]
 }
