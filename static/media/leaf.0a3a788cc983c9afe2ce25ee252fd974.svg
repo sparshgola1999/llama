@@ -1,5 +1,0 @@
-<svg height="100" width="100" xmlns="http://www.w3.org/2000/svg">
-  <!-- A green leaf with a brown stem -->
-  <path fill="green" d="M50 10 Q20 30 10 50 Q30 20 50 50 Q70 20 90 50 Q80 30 50 10 Z"/>
-  <path fill="brown" stroke="brown" d="M50 50 Q40 60 30 80"/>
-</svg>
